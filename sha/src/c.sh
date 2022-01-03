@@ -1,0 +1,1 @@
+g++ -I/home/enc/sha/sha -I/usr/local/lib/jdk1.8.0_311/include -I/usr/local/lib/jdk1.8.0_311/include/linux -L/usr/local/lib/jdk1.8.0_311/jre/lib/amd64/server -L/home/enc/sha/lib -lsha -o test test.cpp -ljvm
